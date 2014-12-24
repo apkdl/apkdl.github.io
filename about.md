@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Apk-DL - Free Web Based Online APK Downloader,Download APK Files Directly From Google Play With Our Apk Downloader
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Contact 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Contact Form](http://apk-dl.com/contact/)
