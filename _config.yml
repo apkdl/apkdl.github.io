@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: APK DL Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Free Web Based Online APK Downloader
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: data:image/png;base64,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
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: barryclark/jekyll-now
+  github: apkdl
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
@@ -37,7 +37,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: https://apk-dl.com
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
